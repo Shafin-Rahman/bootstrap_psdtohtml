@@ -60,6 +60,9 @@ header {
     margin-right: 40px;
     color: #010101;
 }
+.banner_content_logo li:first-child i {
+    color: #010101;
+}
 .banner_content_img {
     margin-bottom: 100px;
 }
